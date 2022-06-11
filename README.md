@@ -1,4 +1,4 @@
-# WikiScrapper
+## Wiki Scrapper
 ######  Retrieves Covid-19 Data By Country from Wikipedia
 
 Click to visit link :
